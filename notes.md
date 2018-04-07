@@ -20,4 +20,7 @@ pass:
 JanuszTracz123
 recovery passphrase:
 cable slush varmint anime riverboat rift cartoon glaucoma saga snippet tackle trickle
+
+
+ranging reveler conical affidavit viewpoint abridge manifesto stand gigahertz applicant unskilled driven
 ```
