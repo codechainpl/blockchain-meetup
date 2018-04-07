@@ -1,0 +1,12 @@
+{
+  "name": "blockchain-meetup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "node-fetch": "^2.1.2",
+    "readline-sync": "^1.4.9",
+    "web3": "^1.0.0-beta.33"
+  }
+}
